@@ -1,13 +1,13 @@
 {
-    "name": "brooksyang/bech32m",
+    "name": "chinilla/bech32m",
     "description": "Pure (no dependencies) implementation of bech32m in php",
     "license": "MIT",
     "type": "library",
-    "homepage": "https://github.com/BrooksYang/bech32m",
+    "homepage": "https://github.com/Chinilla/bech32m",
     "authors": [
         {
-            "name": "Brooks Yang",
-            "homepage": "https://github.com/BrooksYang",
+            "name": Edward Teach",
+            "homepage": "https://github.com/Chinilla",
             "role": "Author"
         }
     ],
@@ -17,7 +17,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "BrooksYang\\Bech32m\\": "src/"
+            "Chinilla\\Bech32m\\": "src/"
         },
         "files": [
             "src/bech32m.php",
