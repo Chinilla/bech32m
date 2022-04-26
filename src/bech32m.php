@@ -1,8 +1,8 @@
 <?php
 
-namespace BrooksYang\Bech32m;
+namespace Chinilla\Bech32m;
 
-use BrooksYang\Bech32m\Exception\Bech32mException;
+use Chinilla\Bech32m\Exception\Bech32mException;
 
 const GENERATOR = [0x3b6a57b2, 0x26508e6d, 0x1ea119fa, 0x3d4233dd, 0x2a1462b3];
 const CHARSET = 'qpzry9x8gf2tvdw0s3jn54khce6mua7l';
