@@ -1,6 +1,6 @@
 <?php
 
-namespace BrooksYang\Bech32m\Exception;
+namespace Chinilla\Bech32m\Exception;
 
 class Bech32mException extends \Exception
 {
