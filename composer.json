@@ -3,7 +3,7 @@
     "description": "Pure (no dependencies) implementation of bech32m in php",
     "license": "MIT",
     "type": "library",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "homepage": "https://github.com/Chinilla/bech32m",
     "authors": [
         {
