@@ -1,5 +1,5 @@
 {
-    "name": "chinilla/bech32m",
+    "name": "chinilla/bech32m-php",
     "description": "Pure (no dependencies) implementation of bech32m in php",
     "license": "MIT",
     "type": "library",

@@ -3,5 +3,5 @@ This package provides a pure implementation of bech32m.
 
 ### Install
 ```bash
-composer require chinilla/bech32m
+composer require chinilla/bech32m-php
 ```
